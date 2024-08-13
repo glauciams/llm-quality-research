@@ -88,3 +88,7 @@ OPENAI_API_KEY = "<KEY>"
 Finally, to ensure that the configuration was successful, run the following command:
 
 - `python3 file.py`
+
+## Dataset in use for first release:
+
+https://www.kaggle.com/datasets/thedevastator/coding-questions-with-solutions
